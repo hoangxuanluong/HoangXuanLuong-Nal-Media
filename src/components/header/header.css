@@ -1,0 +1,49 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+}
+
+.logoTitle {
+  display: flex;
+  align-items: center;
+}
+
+.logoIcons {
+  position: absolute;
+  left: 10px;
+}
+
+.logoIcon {
+  font-size: 20px !important;
+}
+
+.logoName {
+  font-size: 50px;
+  font-weight: 900;
+}
+
+.logoContent {
+  font-size: 20px;
+  font-weight: 200;
+}
+
+.menuBar {
+  width: 100%;
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+}
+
+.menuBarElements {
+  display: flex;
+  list-style: none;
+}
+
+.menuBarElement {
+  margin: 10px 60px 15px 0;
+  /* margin-right: 15px; */
+}

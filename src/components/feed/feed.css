@@ -1,0 +1,12 @@
+.feed {
+  display: flex;
+  margin: 5px;
+}
+
+.feedLeft {
+  flex: 8.5;
+}
+
+.feedRight {
+  flex: 3.5;
+}

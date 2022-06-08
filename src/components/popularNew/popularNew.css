@@ -1,0 +1,20 @@
+.popularNew {
+  display: flex;
+  margin: 10px;
+}
+
+.popularNewContent {
+  margin-left: 10px;
+}
+
+.popularNewCategory {
+  width: fit-content;
+  padding: 3px;
+  font-size: 13px;
+  margin-bottom: 5px;
+  color: white;
+  background-color: black;
+}
+.popularNewTitle {
+  font-weight: 900;
+}

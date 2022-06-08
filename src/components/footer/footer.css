@@ -1,0 +1,43 @@
+.footer {
+  display: flex;
+  border-top: 2px solid black;
+  padding: 5px;
+  justify-content: space-around;
+}
+
+.footerTitle {
+  font-weight: 900;
+  margin-top: 2px;
+}
+
+.footerContent {
+  margin-top: 2px;
+
+  font-weight: 200;
+}
+
+.footerAddress {
+  margin-top: 2px;
+  font-weight: 200;
+  font-style: italic;
+}
+
+.footerPhone {
+  margin-top: 2px;
+  font-weight: 200;
+  font-style: italic;
+}
+
+.footerEmail {
+  margin-top: 2px;
+  font-weight: 200;
+  font-style: italic;
+}
+
+.image {
+  width: 20%;
+}
+
+.footerDesc {
+  width: 60%;
+}

@@ -1,0 +1,28 @@
+.newHostPosts {
+  width: 100%;
+  height: 550px;
+  display: flex;
+  margin: 5px;
+}
+
+.newHostPostLarge {
+  flex: 7;
+  height: 100%;
+  margin-right: 20px;
+}
+
+.newHostPostSmall {
+  flex: 5;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.newHostPostSmall1 {
+  margin-bottom: 10px;
+  height: 50%;
+}
+
+.newHostPostSmall2 {
+  height: 50%;
+}

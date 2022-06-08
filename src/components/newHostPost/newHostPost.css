@@ -1,0 +1,43 @@
+.newHostPost {
+  width: 100%;
+  height: 100%;
+}
+.newHostPostWrapper {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+.newHostPostImg {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.newHostPostContents {
+  position: absolute;
+  left: 10px;
+  bottom: 0;
+  padding-bottom: 4px;
+  z-index: 1;
+}
+
+.newHostPostCategory {
+  width: fit-content;
+  margin-left: 2rem;
+  background-color: red;
+}
+
+.newHostPostContent {
+  background-color: white;
+}
+
+.newHostPostTitle {
+  font-size: 2rem;
+}
+
+.newHostPostDesc {
+  font-size: 1em;
+  font-weight: 200;
+  padding: 10px;
+}

@@ -1,0 +1,30 @@
+.lastestNew {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.lastestNewContent {
+  margin-left: 10px;
+}
+
+.lastestNewCategory {
+  width: fit-content;
+  padding: 1px;
+  font-size: 13px;
+  margin-bottom: 3px;
+  color: white;
+  background-color: black;
+}
+.lastestNewTitle {
+  font-weight: 900;
+  font-size: 20px;
+}
+
+.lastestNewCreatedAt {
+  font-size: 12px;
+  font-weight: 200;
+}
+
+.lastestNewDesc {
+  margin-top: 20px;
+}
